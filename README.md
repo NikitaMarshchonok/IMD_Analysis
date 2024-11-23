@@ -34,15 +34,15 @@ matplotlib and seaborn — for visualization.
 
 
 IMD_Analysis/
-├── main.py                # Main file to run the project
-├── data_processing.py     # Code for data preprocessing
-├── model_training.py      # Code for training the model
-├── predictor.py           # Code for genre prediction
-├── IMDB_top_1000.csv      # Dataset with movie descriptions
-├── requirements.txt       # Dependencies list
-├── model.pkl              # Saved model
-├── vectorizer.pkl         # Saved vectorizer
-└── README.md              # Project description
+main.py                # Main file to run the project
+data_processing.py     # Code for data preprocessing
+model_training.py      # Code for training the model
+predictor.py           # Code for genre prediction
+IMDB_top_1000.csv      # Dataset with movie descriptions
+requirements.txt       # Dependencies list
+model.pkl              # Saved model
+vectorizer.pkl         # Saved vectorizer
+README.md              # Project description
 
 
 
